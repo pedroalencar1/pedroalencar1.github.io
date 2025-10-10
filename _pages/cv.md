@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D. in Ecohydrology and Agricultural Engineering, [Technische Universität Berlin and Universidade Federal do Ceará], [2022]
