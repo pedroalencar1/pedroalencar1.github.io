@@ -1,11 +1,12 @@
 ---
 title: "How do we identify flash droughts? A case study in Central European Croplands"
 collection: publications
+category: manuscripts
 permalink: /publication/Alencar2022a
-excerpt: 'The objective of this study was to compare, in a local/point (climatological station) scale, the functioning of six recently developed FD identification methods with data from four well-monitored experimental cropland sites in Central Europe, by assessing co- and misidentification of FD time series using similarity and synchronicity metrics. We selected two soil moisture-based methods and four indirect methods that used single or multiple climatic variables or indices for FD delineation. The methods were implemented in an R package and a Shiny app available to the public.'
+excerpt: 'This study compares six flash drought identification methods at the station scale using data from four Central European cropland sites, evaluating their agreement through similarity and synchronicity metrics; the methods, based on soil moisture or climatic indices, are available in a public R package and Shiny app.'
 date: 2022-12-01
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://pedroalencar1.github.io/files/Alencar_Paton2022.pdf'
+venue: 'Hydrology Research'
+paperurl: 'http://pedroalencar1.github.io/files/Alencar2022a.pdf'
 citation: 'Alencar and Paton (2022). &quot;How do we identify flash droughts? A case study in Central European Croplands.&quot; <i>Hydrology Research</i>. 53(9). DOI: 10.2166/nh.2022.003'
 ---
 

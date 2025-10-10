@@ -1,10 +1,9 @@
 ---
 title: "Entropy-based Model for Gully Erosion – A combination of probabilistic and deterministic components"
 collection: publications
+category: manuscripts
 permalink: /publication/Alencar2022
-excerpt: 'In this paper, we propose a new gully erosion model that is based on the classical premise of net shear stress, i.e., hydraulic shear stress _minus_ critical (resistant) shear stress, to calculate detachment rates. To calculate hydraulic shear stress, we developed a new equation derived from the principle of minimum cross-entropy. The model
-successfully estimated long-term erosion rates, its efficiency was 0.77, and it is recommended for catchments up to 8 ha. Therefore, the new model provides planners and  stakeholders with a tool to assess gully erosion, sediment
-yield and geometry in most areas.'
+excerpt: 'We present a gully erosion model based on net shear stress and a new hydraulic shear stress equation derived from the principle of minimum cross-entropy; with an efficiency of 0.77, it is suitable for catchments up to 8 ha and supports assessments of erosion, sediment yield, and gully geometry.'
 date: 2022-05-01
 venue: 'Science of Total Environment'
 paperurl: 'http://pedroalencar1.github.io/files/Alencar2022.pdf'

@@ -1,12 +1,11 @@
-
 ---
-title: "Which droughts are becoming more frequent? A copula entropy analysis on the return period of droughts in Europe"
+title: "Exploring drought hazard, vulnerability, and related impacts on agriculture in Brandenburg"
 collection: publications
-permalink: /publication/Alencar2024
-excerpt: 'This study uses a copula entropy approach to analyze the return periods of droughts across Europe, identifying which types of droughts are becoming more frequent and highlighting regional variations in drought risk.'
-date: 2024-08-01
-venue: 'Natural Hazards'
-paperurl: 'http://pedroalencar1.github.io/files/Alencar2024.pdf'
-citation: 'Alencar and Paton (2024). &quot;Which droughts are becoming more frequent? A copula entropy analysis on the return period of droughts in Europe.&quot; <i>Natural Hazards</i>. 121(1):543–565. DOI: 10.1007/s11069-024-06848-y'
+category: manuscripts
+permalink: /publication/Brill2024
+excerpt: 'This study assesses drought hazard, vulnerability, and their impacts on agriculture in Brandenburg, providing insights for risk management and adaptation strategies in regional farming systems.'
+date: 2024-11-01
+venue: 'Natural Hazards and Earth System Sciences'
+paperurl: 'http://pedroalencar1.github.io/files/Brill2024.pdf'
+citation: 'Brill, Alencar, Zhang, Boeing, Hüttel, and Lakes (2024). &quot;Exploring drought hazard, vulnerability, and related impacts on agriculture in Brandenburg.&quot; <i>Natural Hazards and Earth System Sciences</i>. 24(12):4237–4265. DOI: 10.5194/nhess-24-4237-2024'
 ---
-

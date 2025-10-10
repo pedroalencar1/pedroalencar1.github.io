@@ -1,7 +1,7 @@
-
 ---
 title: "Which droughts are becoming more frequent? A copula entropy analysis on the return period of droughts in Europe"
 collection: publications
+category: manuscripts
 permalink: /publication/Alencar2024
 excerpt: 'This study uses a copula entropy approach to analyze the return periods of droughts across Europe, identifying which types of droughts are becoming more frequent and highlighting regional variations in drought risk.'
 date: 2024-08-01

@@ -1,12 +1,11 @@
-
 ---
-title: "Which droughts are becoming more frequent? A copula entropy analysis on the return period of droughts in Europe"
+title: "Co-creating water knowledge: a community perspective"
 collection: publications
-permalink: /publication/Alencar2024
-excerpt: 'This study uses a copula entropy approach to analyze the return periods of droughts across Europe, identifying which types of droughts are becoming more frequent and highlighting regional variations in drought risk.'
-date: 2024-08-01
-venue: 'Natural Hazards'
-paperurl: 'http://pedroalencar1.github.io/files/Alencar2024.pdf'
-citation: 'Alencar and Paton (2024). &quot;Which droughts are becoming more frequent? A copula entropy analysis on the return period of droughts in Europe.&quot; <i>Natural Hazards</i>. 121(1):543–565. DOI: 10.1007/s11069-024-06848-y'
+category: manuscripts
+permalink: /publication/Castelli2025
+excerpt: 'This paper explores community-based approaches to co-creating water knowledge, highlighting participatory methods and the value of stakeholder engagement for sustainable water management.'
+date: 2025-10-01
+venue: 'Hydrological Sciences Journal'
+paperurl: 'http://pedroalencar1.github.io/files/Castelli2025.pdf'
+citation: 'Castelli et al., including Alencar (2025). &quot;Co-creating water knowledge: a community perspective.&quot; <i>Hydrological Sciences Journal</i>. DOI: 10.1080/02626667.2025.2571065'
 ---
-
