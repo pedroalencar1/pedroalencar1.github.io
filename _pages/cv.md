@@ -9,13 +9,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Ecohydrology and Agricultural Engineering, [Technische Universität Berlin and Universidade Federal do Ceará], [2022]
+* Ph.D. in Ecohydrology and Agricultural Engineering, _Technische Universität Berlin_ and _Universidade Federal do Ceará_, 2022
   * Dissertation: "Too Much, Too Little -- Entropy and statistics as tools for hydrology: a science of irregular distribution of data and events"
   * Advisor: Prof. Dr. Eva Paton and Prof. Dr. José Carlos de Araújo
-* Qualification in Research Management, [Technische Universität Berlin], [2021]
-* M.S. in Agricultural Engineering, [Universidade Federal do Ceará], [2018]
+* Qualification in Research Management, _Technische Universität Berlin_, 2021
+* M.S. in Agricultural Engineering, _Universidade Federal do Ceará_, 2018
   * Thesis: "Measuring and Modelling Gully Erosion in the Caatinga: A Case Study of the Representative Catchment of Madalena"
-* B.S. in Civil Engineering, [Universidade Federal do Ceará], [2012]
+* B.S. in Civil Engineering, _Universidade Federal do Ceará_, 2012
 
 Research Experience
 ======
