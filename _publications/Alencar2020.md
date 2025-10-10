@@ -1,8 +1,9 @@
 ---
 title: "Physically based model for gully simulation: application to the Brazilian semiarid region"
 collection: publications
+category: manuscripts
 permalink: /publication/Alencar2020
-excerpt: 'In an effort to better understand soil loss in these systems, we studied small permanent gullies, which are a recurrent problem in the Brazilian northeastern semiarid region. The increase in sediment connectivity and the reduction of soil moisture, among other deleterious consequences, endanger this desertification-prone region and reduce its capacity to support life and economic activities. Thus, we propose a model to simulate gully-erosion dynamics, which is derived from the existing physically based models of Foster and Lane (1983) and Sidorchuk (1999)'
+excerpt: 'To better understand soil loss in Brazil’s northeastern semiarid region, we developed a model—based on Foster and Lane (1983) and Sidorchuk (1999)—to simulate gully-erosion dynamics that threaten this desertification-prone area.'
 date: 2020-08-28
 venue: 'Hydrology and Earth Systems Sciences'
 paperurl: 'http://pedroalencar1.github.io/files/alencar2020.pdf'
