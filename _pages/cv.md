@@ -10,7 +10,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Ecohydrology and Agricultural Engineering, _Technische Universität Berlin_ and _Universidade Federal do Ceará_, 2022
-  * Dissertation: "Too Much, Too Little -- Entropy and statistics as tools for hydrology: a science of irregular distribution of data and events"
+  * Dissertation: ["Too Much, Too Little -- Entropy and statistics as tools for hydrology: a science of irregular distribution of data and events"](https://depositonce.tu-berlin.de/items/bf4167d9-e9ba-4680-9746-8a626d0da84e)
   * Advisor: Prof. Dr. Eva Paton and Prof. Dr. José Carlos de Araújo
 * Qualification in Research Management, _Technische Universität Berlin_, 2021
 * M.S. in Agricultural Engineering, _Universidade Federal do Ceará_, 2018
